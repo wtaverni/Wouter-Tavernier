@@ -3,6 +3,8 @@
 ---
 
 # Publications
+> Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers below.
+
 Tavernier, W., Papadimitriou, D., Colle, D., Pickavet, M., & Demeester, P. (2009b). Optimizing the IP router update process with traffic-driven updates. _2009 7th International Workshop on Design of Reliable Communication Networks_, 115–122. IEEE.
 
 Tavernier, W., Papadimitriou, D., Colle, D., Pickavet, M., & Demeester, P. (2009a). Emulation of GMPLS-controlled ethernet label switching. _2009 5th International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities and Workshops_, 1–9. IEEE.
