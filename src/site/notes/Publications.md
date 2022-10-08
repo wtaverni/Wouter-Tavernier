@@ -10,7 +10,9 @@ Sharma, Gourav Prateek, Tavernier, W., Colle, D., & Pickavet, M. (2022). Routing
 
 Mohammadi, S., Colle, D., & Tavernier, W. (2022). Latency-aware Topology Discovery in SDN-based Time-Sensitive Networks. _2022 IEEE 8th International Conference on Network Softwarization (NetSoft)_, 145–150. Ieee.
 
-Galal, A., Hesselbach, X., Tavernier, W., & Colle, D. (2022). SDN-based gateway architecture for electromagnetic nano-networks. _Computer Communications, _184_, 160–173.
+Galal, A., Hesselbach, X., Tavernier, W., & Colle, D. (2022). SDN-based gateway architecture for electromagnetic nano-networks. _Computer Communications, 184_, 160–173.
+
+Tavernier, W., & Colle, D. US Patent 11,349,729 (2022). _Network service requests_.
 
 ## 2021
 Sharma, Gourav Prateek, Tavernier, W., Colle, D., & Pickavet, M. (2021). Scheduling for Media Function Virtualization. _Future Internet_, _13_(7), 167.
@@ -18,6 +20,8 @@ Sharma, Gourav Prateek, Tavernier, W., Colle, D., & Pickavet, M. (2021). Schedul
 Sharma, Gourav Prateek, Colle, D., Tavernier, W., & Pickavet, M. (2021). On decomposition and deployment of virtualized media services. _IEEE Transactions on Broadcasting_, _67_(3), 761–775.
 
 Lemic, F., Abadal, S., Tavernier, W., Stroobant, P., Colle, D., Alarcón, E., … Famaey, J. (2021). Survey on terahertz nanocommunication and networking: A top-down perspective. _IEEE Journal on Selected Areas in Communications_, _39_(6), 1506–1543.
+
+Colle, D., & Tavernier, W. US Patent 10,931,742 (2021). _State replication of virtual network function instances_.
 
 ## 2020
 Van Rossem, S., Tavernier, W., Colle, D., Pickavet, M., & Demeester, P. (2020a). Optimized sampling strategies to model the performance of virtualized network functions. _Journal of Network and Systems Management_, _28_(4), 1482–1521.
@@ -60,7 +64,6 @@ Van Rossem, S., Tavernier, W., Colle, D., Pickavet, M., & Demeester, P. (2019). 
 Sharma, Gourav Prateek, Tavernier, W., Colle, D., & Pickavet, M. (2019c). Vnf-aap: Accelerator-aware virtual network function placement. _2019 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)_, 1–4. IEEE.
 
 Nuriddinov, A., Tavernier, W., Colle, D., Pickavet, M., Peustery, M., & Schneidery, S. (2019). Reproducible functional tests for multi-scale network services. _2019 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)_, 1–6. IEEE.
-
 
 ## 2018
 Sahhaf, S., Dixit, A., Tavernier, W., Colle, D., Pickavet, M., & Demeester, P. (2018). All-optical tree-based greedy router using optical logic gates and optical flip-flops. _Photonic Network Communications_, _35_(1), 109–121.
@@ -199,7 +202,6 @@ Tavernier, W., Papadimitriou, D., Colle, D., Pickavet, M., & Demeester, P. (2011
 Tavernier, W. (2011b). _Experimental evaluation of the machine learning engine_.
 
 Tavernier, W. (2011a). A traffic-driven IP router update process using machine learning techniques. _12th FEA PhD Symposium_. Ghent University. Faculty of Engineering and Architecture.
-
 
 ## 2010
 Das, G., Papadimitriou, D., Tavernier, W., Colle, D., Dhaene, T., Pickavet, M., & Demeester, P. (2010). Link State Protocol data mining for shared risk link group detection. _2010 Proceedings of 19th International Conference on Computer Communications and Networks_, 1–8. IEEE.
