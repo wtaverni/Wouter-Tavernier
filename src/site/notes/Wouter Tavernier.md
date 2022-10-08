@@ -12,3 +12,5 @@ Currently, my **research interests** are in deterministic networking (TSN), so
 e-mail: wouter.tavernier@ugent.be
 [Google Scholar](https://scholar.google.be/citations?user=zMoR8AEAAAA)
 [LinkedIn](https://www.linkedin.com/in/wouter-tavernier-5049342/)
+
+## Publications
