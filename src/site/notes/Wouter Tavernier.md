@@ -14,7 +14,7 @@ e-mail: [wouter.tavernier@ugent.be](mailto:wouter.tavernier@ugent.be)
 [Google Scholar](https://scholar.google.be/citations?user=zMoR8AEAAAA)
 [LinkedIn](https://www.linkedin.com/in/wouter-tavernier-5049342/)
 
-## Teaching
+## Teaching at Ghent University
 - **Communication Networks** for [Bachelor of Science in Engineering](https://studiekiezer.ugent.be/bachelor-of-science-in-engineering-computerwetenschappen) & [Bachelor of Science in Computer Science](https://studiekiezer.ugent.be/bachelor-of-science-in-computer-science/) (2017-present)
 - **Computer Networks I and II** for [Bachelor of Science in Engineering Technology](https://studiekiezer.ugent.be/bachelor-of-science-in-engineering-technology-information-engineering-technology/) (2020-present)
 
