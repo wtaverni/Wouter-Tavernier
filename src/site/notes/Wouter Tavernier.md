@@ -19,3 +19,4 @@ e-mail: [wouter.tavernier@ugent.be](mailto:wouter.tavernier@ugent.be)
 - **Computer Networks I and II** for [Bachelor of Science in Engineering Technology](https://studiekiezer.ugent.be/bachelor-of-science-in-engineering-technology-information-engineering-technology/) (2020-present)
 
 ## [[Publications|Publications]]
+<meta name="google-site-verification" content="Rzxti8VBhSBGu-b5-Myik1ycZeIgIjDdAeLdgnYxcgk" />
