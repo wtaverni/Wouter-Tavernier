@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publications/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/publications/"}
 ---
 
 # Publications
