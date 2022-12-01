@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/wouter-tavernier/","tags":"gardenEntry"}
 ---
 
-<head><meta name="google-site-verification" content="Rzxti8VBhSBGu-b5-Myik1ycZeIgIjDdAeLdgnYxcgk" /> </head>
 # Wouter Tavernier
 ## About me
 I am an assistant professor at [Ghent University](https://www.ugent.be), Belgium, and [IMEC](https://www.imec-int.com/en), Belgium, and a member of the [IDLab research group](https://idlab.ugent.be/), where I lead the Fixed Internet Architectures and Optical Networks (FARON) team. I received my M.Sc. in Computer Science from Ghent University, Belgium, in 2002, and B.Sc. in Philosophy from Katholieke Universiteit Leuven in 2003.  After a 2-year period at Accenture, I went back in 2006 to Ghent University studying Carrier Ethernet and alternative Internet routing technologies to obtain my PhD in Computer Science Engineering at the same university in 2012. 
