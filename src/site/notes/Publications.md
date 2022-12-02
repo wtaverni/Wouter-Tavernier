@@ -6,7 +6,7 @@
 > Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers below.
 
 ## 2022
-Sharma, Gourav Prateek, Tavernier, W., Colle, D., & Pickavet, M. (2022). Routing and scheduling for 1+ 1 protected DetNet flows. _Computer Networks_, _211_, 108960.
+Sharma, Gourav Prateek, Tavernier, W., Colle, D., & Pickavet, M. (2022). [Routing and scheduling for 1+ 1 protected DetNet flows](https://doi.org/10.1016/j.comnet.2022.108960). _Computer Networks_, _211_, 108960. [PDF](https://www.dropbox.com/s/l8nwnhh5igua035/Sharma21ProtectedDet.pdf?dl=0)
 
 Mohammadi, S., Colle, D., & Tavernier, W. (2022). Latency-aware Topology Discovery in SDN-based Time-Sensitive Networks. _2022 IEEE 8th International Conference on Network Softwarization (NetSoft)_, 145–150. Ieee.
 
@@ -19,7 +19,7 @@ Sharma, Gourav Prateek, Tavernier, W., Colle, D., & Pickavet, M. (2021). Schedul
 
 Sharma, Gourav Prateek, Colle, D., Tavernier, W., & Pickavet, M. (2021). On decomposition and deployment of virtualized media services. _IEEE Transactions on Broadcasting_, _67_(3), 761–775.
 
-Lemic, F., Abadal, S., Tavernier, W., Stroobant, P., Colle, D., Alarcón, E., … Famaey, J. (2021). Survey on terahertz nanocommunication and networking: A top-down perspective. _IEEE Journal on Selected Areas in Communications_, _39_(6), 1506–1543. [PDF](https://www.dropbox.com/s/xqqdcnj5a67td8t/Lemic2021SurveyThz.pdf?dl=0)
+Lemic, F., Abadal, S., Tavernier, W., Stroobant, P., Colle, D., Alarcón, E., … Famaey, J. (2021). [Survey on terahertz nanocommunication and networking: A top-down perspective](https://doi.org/10.1109/JSAC.2021.3071837). _IEEE Journal on Selected Areas in Communications_, _39_(6), 1506–1543. [PDF](https://www.dropbox.com/s/xqqdcnj5a67td8t/Lemic2021SurveyThz.pdf?dl=0)
 
 Colle, D., & Tavernier, W. US Patent 10,931,742 (2021). _State replication of virtual network function instances_.
 
@@ -59,7 +59,7 @@ Sharma, Gourav Prateek, Tavernier, W., Colle, D., & Pickavet, M. (2019b). Dynami
 
 Sharma, Gourav Prateek, Tavernier, W., Colle, D., & Pickavet, M. (2019a). Dynamic accelerator provisioning for SSH tunnels in NFV environments. _2019 IEEE Conference on Network Softwarization (NetSoft)_, 242–244. IEEE.
 
-Van Rossem, S., Tavernier, W., Colle, D., Pickavet, M., & Demeester, P. (2019). Profile-based resource allocation for virtualized network functions. _IEEE Transactions on Network and Service Management_, _16_(4), 1374–1388.
+Van Rossem, S., Tavernier, W., Colle, D., Pickavet, M., & Demeester, P. (2019). [Profile-based resource allocation for virtualized network functions](https://doi.org/10.1109/TNSM.2019.2943779). _IEEE Transactions on Network and Service Management_, _16_(4), 1374–1388. [PDF](https://www.dropbox.com/s/s3t9n1hrya79q3l/VanRossem2021ProfileBasedAllocation.pdf?dl=0)
 
 Sharma, Gourav Prateek, Tavernier, W., Colle, D., & Pickavet, M. (2019c). Vnf-aap: Accelerator-aware virtual network function placement. _2019 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)_, 1–4. IEEE.
 
