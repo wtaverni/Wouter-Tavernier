@@ -19,7 +19,7 @@ Sharma, Gourav Prateek, Tavernier, W., Colle, D., & Pickavet, M. (2021). Schedul
 
 Sharma, Gourav Prateek, Colle, D., Tavernier, W., & Pickavet, M. (2021). On decomposition and deployment of virtualized media services. _IEEE Transactions on Broadcasting_, _67_(3), 761–775.
 
-Lemic, F., Abadal, S., Tavernier, W., Stroobant, P., Colle, D., Alarcón, E., … Famaey, J. (2021). Survey on terahertz nanocommunication and networking: A top-down perspective. _IEEE Journal on Selected Areas in Communications_, _39_(6), 1506–1543. [PDF](Lemic2021SurveyThz.pdf)
+Lemic, F., Abadal, S., Tavernier, W., Stroobant, P., Colle, D., Alarcón, E., … Famaey, J. (2021). Survey on terahertz nanocommunication and networking: A top-down perspective. _IEEE Journal on Selected Areas in Communications_, _39_(6), 1506–1543. [PDF](https://www.dropbox.com/s/xqqdcnj5a67td8t/Lemic2021SurveyThz.pdf?dl=0)
 
 Colle, D., & Tavernier, W. US Patent 10,931,742 (2021). _State replication of virtual network function instances_.
 
