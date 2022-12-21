@@ -93,7 +93,7 @@ Schneider, S., Peuster, M., Tavernier, W., & Karl, H. (2018). A fully integrated
 ## 2017
 Sahhaf, S., Tavernier, W., Colle, D., & Pickavet, M. (2017). Adaptive and reliable multipath provisioning for media transfer in SDN-based overlay networks. _Computer Communications_, _106_, 107–116.
 
-Sahhaf, S., Tavernier, W., Papadimitriou, D., Careglio, D., Kumar, A., Glacet, C., … Others. (2017). Routing at large scale: advances and challenges for complex networks. _IEEE network_, _31_(4), 108–118.
+Sahhaf, S., Tavernier, W., Papadimitriou, D., Careglio, D., Kumar, A., Glacet, C., … . (2017). [Routing at large scale: advances and challenges for complex networks](https://ieeexplore.ieee.org/abstract/document/7956008?casa_token=ldN2v5k1dM0AAAAA:3UpQI-2bAhchH5c1Xo_c-8Zu4tcBPURQVvBc260uASnx6CtR5qtqwUvb3VXOjZUj98fsqTSkdg). _IEEE network_, _31_(4), 108–118. [PDF](https://web.archive.org/web/20180719043753id_/https://biblio.ugent.be/publication/8537083/file/8537084.pdf)
 
 Van Rossem, S., Tavernier, W., Colle, D., Pickavet, M., & Demeester, P. (2017). Automated monitoring and detection of resource-limited nfv-based services. _2017 IEEE Conference on Network Softwarization (NetSoft)_, 1–5. IEEE.
 
@@ -172,7 +172,7 @@ Sahhaf, S., Papadimitriou, D., Tavernier, W., Colle, D., & Pickavet, M. (2014). 
 
 Csoma, A., Sonkoly, B., Csikor, L., Németh, F., Gulyás, A., Jocha, D., … Sahhaf, S. (2014). Multi-layered service orchestration in a multi-domain network environment. _2014 Third European Workshop on Software Defined Networks_, 141–142. IEEE.
 
-Houthooft, R., Sahhaf, S., Tavernier, W., De Turck, F., Colle, D., & Pickavet, M. (2014). Fault-tolerant greedy forest routing for complex networks. _2014 6th International Workshop on Reliable Networks Design and Modeling (RNDM)_, 1–8. IEEE.
+Houthooft, R., Sahhaf, S., Tavernier, W., De Turck, F., Colle, D., & Pickavet, M. (2014). Fault-tolerant greedy forest routing for complex networks. _2014 6th International Workshop on Reliable Networks Design and Modeling (RNDM)_, 1–8. IEEE. [PDF](https://biblio.ugent.be/publication/5955462/file/5955471)
 
 Tavernier, W., Sahhaf, S., Colle, D., Pickavet, M., & Demeester, P. (2014). Towards content-centric geometric routing. _2014 IEEE 21st Symposium on Communications and Vehicular Technology in the Benelux (SCVT)_, 133–138. IEEE.
 
