@@ -19,3 +19,9 @@ e-mail: [wouter.tavernier@ugent.be](mailto:wouter.tavernier@ugent.be)
 - **Computer Networks I and II** for [Bachelor of Science in Engineering Technology](https://studiekiezer.ugent.be/bachelor-of-science-in-engineering-technology-information-engineering-technology/) (2020-present)
 
 ## [[Publications\|Publications]]
+
+## Job offers for researchers & PhD students 
+At the [IDLab research group](https://idlab.ugent.be/) of [Ghent University](https://www.ugent.be) we have the following open positions for aspiring PhD students, feel free to contact me if you are interested!
+- [PhD vacancy on network architectures for high performance computing](https://www.ugent.be/ea/idlab/en/jobs/phd-vacancy-network-architectures-high-performance-computing.htm)
+- [PhD vacancy in scheduling and control algorithms for future networks](https://www.ugent.be/ea/idlab/en/jobs/phd-scheduling-and-control-algorithms-for-future-networks.htm)
+- [PhD vacancy on performance optimization for network- and data processing in 6G networks](https://www.ugent.be/ea/idlab/en/jobs/phd-performance-optimization-6g-networks.htm)
