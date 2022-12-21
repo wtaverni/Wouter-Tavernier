@@ -105,7 +105,7 @@ Soenen, T., Tavernier, W., Colle, D., & Pickavet, M. (2017). Optimising microser
 
 Van Rossem, S., Peuster, M., Conceição, L., Kouchaksaraei, H. R., Tavernier, W., Colle, D., … Demeester, P. (2017). A network service development kit supporting the end-to-end lifecycle of NFV-based telecom services. _2017 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)_, 1–2. IEEE.
 
-Choi, T., Kim, T., TaverNier, W., Korvala, A., & Pajunpaa, J. (2017). Agile Management of 5G core network based on SDN/NFV technology. _2017 International Conference on Information and Communication Technology Convergence (ICTC)_, 840–844. Ieee.
+Choi, T., Kim, T., Tavernier, W., Korvala, A., & Pajunpaa, J. (2017). Agile Management of 5G core network based on SDN/NFV technology. _2017 International Conference on Information and Communication Technology Convergence (ICTC)_, 840–844. Ieee.
 
 ## 2016
 Sahhaf, S., Tavernier, W., Colle, D., Pickavet, M., & Demeester, P. (2016). Efficient geometric routing in large-scale complex networks with low-cost node design. _IEICE Transactions on Communications_, _99_(3), 666–674.
@@ -131,7 +131,7 @@ Sahhaf, S., Tavernier, W., Colle, D., Pickavet, M., & Demeester, P. (2015). Expe
 
 Sharma, S., Tavernier, W., Colle, D., Pickavet, M., & Demeester, P. (2015). Verification of aggregated flows in OpenFlow networks. _2015 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_, 7–8. IEEE.
 
-Houthooft, R., Sahhaf, S., Tavernier, W., De Turck, F., Colle, D., & Pickavet, M. (2015b). Robust geometric forest routing with tunable load balancing. _2015 IEEE Conference on Computer Communications (INFOCOM)_, 1382–1390. IEEE.
+Houthooft, R., Sahhaf, S., Tavernier, W., De Turck, F., Colle, D., & Pickavet, M. (2015b). [Robust geometric forest routing with tunable load balancing](https://ieeexplore.ieee.org/abstract/document/7014924?casa_token=JYilhVq74IAAAAAA:vzuu0oZuS6_8o80N1prA_EepExwIzHofw_VafHXKgx964vsMSktxqse1F21Ul25rG5HHxxUEFQ). _2015 IEEE Conference on Computer Communications (INFOCOM)_, 1382–1390. IEEE. [PDF](https://biblio.ugent.be/publication/5955462/file/5955471)
 
 Sahhaf, S., Tavernier, W., Colle, D., & Pickavet, M. (2015). Network service chaining with efficient network function mapping based on service decompositions. _Proceedings of the 2015 1st IEEE conference on network softwarization (NetSoft)_, 1–5. IEEE.
 
@@ -141,7 +141,7 @@ Sonkoly, B., Czentye, J., Szabo, R., Jocha, D., Elek, J., Sahhaf, S., … Risso,
 
 Tavernier, W., Naudts, B., Colle, D., Pickavet, M., & Verbrugge, S. (2015). Can open-source projects (re-) shape the SDN/NFV-driven telecommunication market? _it-Information Technology_, _57_(5), 267–276.
 
-Sahhaf, S., Tavernier, W., Rost, M., Schmid, S., Colle, D., Pickavet, M., & Demeester, P. (2015). Network service chaining with optimized network function embedding supporting service decompositions. _Computer Networks_, _93_, 492–505.
+Sahhaf, S., Tavernier, W., Rost, M., Schmid, S., Colle, D., Pickavet, M., & Demeester, P. (2015). [Network service chaining with optimized network function embedding supporting service decompositions](https://dl.acm.org/doi/10.1016/j.comnet.2015.09.035). _Computer Networks_, _93_, 492–505. [PDF](https://eprints.cs.univie.ac.at/5459/1/16_network%20service.pdf)
 
 Sharma, S., Tavernier, W., Sahhaf, S., Colle, D., Pickavet, M., & Demeester, P. (2015). Verification of flow matching functionality in the forwarding plane of openflow networks. _IEICE Transactions on Communications_, _98_(11), 2190–2201.
 
@@ -172,7 +172,7 @@ Sahhaf, S., Papadimitriou, D., Tavernier, W., Colle, D., & Pickavet, M. (2014). 
 
 Csoma, A., Sonkoly, B., Csikor, L., Németh, F., Gulyás, A., Jocha, D., … Sahhaf, S. (2014). Multi-layered service orchestration in a multi-domain network environment. _2014 Third European Workshop on Software Defined Networks_, 141–142. IEEE.
 
-Houthooft, R., Sahhaf, S., Tavernier, W., De Turck, F., Colle, D., & Pickavet, M. (2014). Fault-tolerant greedy forest routing for complex networks. _2014 6th International Workshop on Reliable Networks Design and Modeling (RNDM)_, 1–8. IEEE. [PDF](https://biblio.ugent.be/publication/5955462/file/5955471)
+Houthooft, R., Sahhaf, S., Tavernier, W., De Turck, F., Colle, D., & Pickavet, M. (2014). Fault-tolerant greedy forest routing for complex networks. _2014 6th International Workshop on Reliable Networks Design and Modeling (RNDM)_, 1–8. IEEE. 
 
 Tavernier, W., Sahhaf, S., Colle, D., Pickavet, M., & Demeester, P. (2014). Towards content-centric geometric routing. _2014 IEEE 21st Symposium on Communications and Vehicular Technology in the Benelux (SCVT)_, 133–138. IEEE.
 
