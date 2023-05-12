@@ -17,7 +17,6 @@ e-mail: [wouter.tavernier@ugent.be](mailto:wouter.tavernier@ugent.be)
 ## Job offers for researchers & PhD students 
 At the [IDLab research group](https://idlab.ugent.be/) of [Ghent University](https://www.ugent.be) we have the following open positions for aspiring PhD students, feel free to contact me if you are interested!
 - [PhD vacancy in scheduling and control algorithms for future networks](https://www.ugent.be/ea/idlab/en/jobs/phd-scheduling-and-control-algorithms-for-future-networks.htm)
-- [PhD vacancy on performance optimization for network- and data processing in 6G networks](https://www.ugent.be/ea/idlab/en/jobs/phd-performance-optimization-6g-networks.htm)
 
 ## Teaching at Ghent University
 - **Communication Networks** for [Bachelor of Science in Engineering](https://studiekiezer.ugent.be/bachelor-of-science-in-engineering-computerwetenschappen) & [Bachelor of Science in Computer Science](https://studiekiezer.ugent.be/bachelor-of-science-in-computer-science/) (2017-present)
