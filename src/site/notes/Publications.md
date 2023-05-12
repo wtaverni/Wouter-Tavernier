@@ -5,6 +5,11 @@
 # Publications
 > Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers below.
 
+## 2023
+Miserez, J., Sharma, G. P., & Tavernier, W. (2023, April). Routing protocols exploiting queue information for deterministic networks. In _2023 19th International Conference on the Design of Reliable Communication Networks (DRCN)_ (pp. 1-8). IEEE.
+
+Zhang, Z., Colle, D., Tavernier, W., & Pickavet, M. (2023). On the network design and control of an optical network: interconnecting multiple chips on a wafer. _Journal of Optical Communications and Networking_, _15_(2), 119-132.
+
 ## 2022
 Sharma, Gourav Prateek, Tavernier, W., Colle, D., & Pickavet, M. (2022). [Routing and scheduling for 1+ 1 protected DetNet flows](https://doi.org/10.1016/j.comnet.2022.108960). _Computer Networks_, _211_, 108960. [PDF](https://www.dropbox.com/s/l8nwnhh5igua035/Sharma21ProtectedDet.pdf?dl=0)
 
