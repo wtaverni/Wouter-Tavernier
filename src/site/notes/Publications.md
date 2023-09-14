@@ -6,6 +6,8 @@
 > Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers below.
 
 ## 2023
+Chochliouros, I. P., Kourtis, M. A., Xilouris, G., Tavernier, W., Sanchez, E. A., Anastassova, M., ... & Spiliopoulou, A. S. (2023, June). OASEES: An Innovative Scope for a DAO-Based Programmable Swarm Solution, for Decentralizing AI Applications Close to Data Generation Locations. In _IFIP International Conference on Artificial Intelligence Applications and Innovations_ (pp. 91-105). Cham: Springer Nature Switzerland.
+
 Kerchove, F. V., Chen, X., Colle, D., Tavernier, W., Bogaerts, W., & Pickavet, M. (2023). An Automated Router with Optical Resource Adaptation. _Journal of Lightwave Technology_.
 
 Miserez, J., Sharma, G. P., & Tavernier, W. (2023, April). Routing protocols exploiting queue information for deterministic networks. In _2023 19th International Conference on the Design of Reliable Communication Networks (DRCN)_ (pp. 1-8). IEEE.
