@@ -181,7 +181,7 @@ Sahhaf, S., Papadimitriou, D., Tavernier, W., Colle, D., & Pickavet, M. (2014). 
 
 Csoma, A., Sonkoly, B., Csikor, L., Németh, F., Gulyás, A., Jocha, D., … Sahhaf, S. (2014). Multi-layered service orchestration in a multi-domain network environment. _2014 Third European Workshop on Software Defined Networks_, 141–142. IEEE.
 
-Houthooft, R., Sahhaf, S., Tavernier, W., De Turck, F., Colle, D., & Pickavet, M. (2014). Fault-tolerant greedy forest routing for complex networks. _2014 6th International Workshop on Reliable Networks Design and Modeling (RNDM)_, 1–8. IEEE. 
+Houthooft, R., Sahhaf, S., Tavernier, W., De Turck, F., Colle, D., & Pickavet, M. (2014). Fault-tolerant greedy forest routing for complex networks. _2014 6th International Workshop on Reliable Networks Design and Modeling (RNDM)_, 1–8. IEEE. **Best paper award**
 
 Tavernier, W., Sahhaf, S., Colle, D., Pickavet, M., & Demeester, P. (2014). Towards content-centric geometric routing. _2014 IEEE 21st Symposium on Communications and Vehicular Technology in the Benelux (SCVT)_, 133–138. IEEE.
 
@@ -206,7 +206,7 @@ Tavernier, W., Papadimitriou, D., Colle, D., Pickavet, M., & Demeester, P. (2011
 
 Tavernier, W., Papadimitriou, D., Colle, D., Pickavet, M., & Demeester, P. (2011b). Packet loss reduction during rerouting. _IEEE communications letters_, _15_(10), 1120–1122.
 
-Tavernier, W., Papadimitriou, D., Colle, D., Pickavet, M., & Demeester, P. (2011a). Automated learning of loop-free alternate paths for fast re-routing. _2011 3rd International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT)_, 1–7. IEEE.
+Tavernier, W., Papadimitriou, D., Colle, D., Pickavet, M., & Demeester, P. (2011a). Automated learning of loop-free alternate paths for fast re-routing. _2011 3rd International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT)_, 1–7. IEEE. **Best paper award**
 
 Tavernier, W. (2011b). _Experimental evaluation of the machine learning engine_.
 
@@ -219,7 +219,7 @@ Shimizu, S., Tavernier, W., Kikuta, K., Nishida, M., Ishii, D., Okamoto, S., …
 
 Puype, B., Verbanck, G., Michielsen, J., Moeskops, M., Tavernier, W., Colle, D., … Demeester, P. (2010). Impact of topology on layer 2 switched QoS sensitive services. _2010 12th International Conference on Transparent Optical Networks_, 1–4. IEEE.
 
-Tavernier, W., Papadimitriou, D., Colle, D., Pickavet, M., & Demeester, P. (2010). Using AR (I) MA-GARCH models for improving the IP routing table update. _International Congress on Ultra Modern Telecommunications and Control Systems_, 628–634. IEEE.
+Tavernier, W., Papadimitriou, D., Colle, D., Pickavet, M., & Demeester, P. (2010). Using AR (I) MA-GARCH models for improving the IP routing table update. _International Congress on Ultra Modern Telecommunications and Control Systems_, 628–634. IEEE. **Best paper award**
 
 ## 2009
 Tavernier, W., Papadimitriou, D., Colle, D., Pickavet, M., & Demeester, P. (2009b). Optimizing the IP router update process with traffic-driven updates. _2009 7th International Workshop on Design of Reliable Communication Networks_, 115–122. IEEE.
