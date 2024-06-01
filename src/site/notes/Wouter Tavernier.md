@@ -14,7 +14,7 @@ e-mail: [wouter.tavernier@ugent.be](mailto:wouter.tavernier@ugent.be)
 [LinkedIn](https://www.linkedin.com/in/wouter-tavernier-5049342/)
 
 ## Job offers for researchers & PhD students 
-At the [IDLab research group](https://idlab.ugent.be/) of [Ghent University](https://www.ugent.be) we have open positions for aspiring PhD students, feel free to contact me if you are interested.
+At the [IDLab research group](https://idlab.ugent.be/) of [Ghent University](https://www.ugent.be) we have [open positions](https://www.ugent.be/ea/idlab/en/jobs) for aspiring PhD students, feel free to contact me if you are interested.
 
 ## Teaching at Ghent University
 - **Communication Networks** for [Bachelor of Science in Engineering](https://studiekiezer.ugent.be/bachelor-of-science-in-engineering-computerwetenschappen) & [Bachelor of Science in Computer Science](https://studiekiezer.ugent.be/bachelor-of-science-in-computer-science/) (2017-present)
