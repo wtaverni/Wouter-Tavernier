@@ -6,6 +6,8 @@
 > Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers below.
 
 ## 2023
+Chochliouros, I., Kourtis, M. A., Xilouris, G., Tavernier, W., Spiliopoulou, A., Zaharis, Z., & Lazaridis, P. (2023, August). 5G High Mast Inspection Based on a Decentralized Autonomous Organization in the Framework of the OASEES Project. In _International conference on the Efficiency and Performance Engineering Network_ (pp. 795-806). Cham: Springer Nature Switzerland.
+
 Chochliouros, I. P., Kourtis, M. A., Xilouris, G., Tavernier, W., Sanchez, E. A., Anastassova, M., ... & Spiliopoulou, A. S. (2023, June). OASEES: An Innovative Scope for a DAO-Based Programmable Swarm Solution, for Decentralizing AI Applications Close to Data Generation Locations. In _IFIP International Conference on Artificial Intelligence Applications and Innovations_ (pp. 91-105). Cham: Springer Nature Switzerland.
 
 Kerchove, F. V., Chen, X., Colle, D., Tavernier, W., Bogaerts, W., & Pickavet, M. (2023). An Automated Router with Optical Resource Adaptation. _Journal of Lightwave Technology_.
