@@ -5,6 +5,13 @@
 # Publications
 > Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers below.
 
+## 2024
+Miserez, J., Colle, D., Pickavet, M., & Tavernier, W. (2024). Exploiting Queue Information for Scalable Delay-Constrained Routing in Deterministic Networks. _IEEE Transactions on Network and Service Management_.
+
+Sharma, G. P., Tavernier, W., Colle, D., Pickavet, M., Haxhibeqiri, J., Hoebeke, J., & Moerman, I. (2024). End-to-End No-wait Scheduling for Time-Triggered Streams in Mixed Wired-Wireless Networks. _Journal of Network and Systems Management_, _32_(3), 65.
+
+Van Poucke, D., Tavernier, W., & Colle, D. (2024, June). Network-Centered Resource Management for HPC Networks. In _2024 IEEE 10th International Conference on Network Softwarization (NetSoft)_ (pp. 235-238). IEEE.
+
 ## 2023
 Chochliouros, I., Kourtis, M. A., Xilouris, G., Tavernier, W., Spiliopoulou, A., Zaharis, Z., & Lazaridis, P. (2023, August). 5G High Mast Inspection Based on a Decentralized Autonomous Organization in the Framework of the OASEES Project. In _International conference on the Efficiency and Performance Engineering Network_ (pp. 795-806). Cham: Springer Nature Switzerland.
 
