@@ -12,6 +12,8 @@ Sharma, G. P., Tavernier, W., Colle, D., Pickavet, M., Haxhibeqiri, J., Hoebeke,
 
 Van Poucke, D., Tavernier, W., & Colle, D. (2024, June). Network-Centered Resource Management for HPC Networks. In _2024 IEEE 10th International Conference on Network Softwarization (NetSoft)_ (pp. 235-238). IEEE.
 
+Miserez, J., Colle, D., Pickavet, M., & Tavernier, W. (2024, June). An East-Westbound Control Architecture for Multi-Segment Deterministic Networking. In _2024 IFIP Networking Conference (IFIP Networking)_ (pp. 732-737). IEEE.
+
 ## 2023
 Chochliouros, I., Kourtis, M. A., Xilouris, G., Tavernier, W., Spiliopoulou, A., Zaharis, Z., & Lazaridis, P. (2023, August). 5G High Mast Inspection Based on a Decentralized Autonomous Organization in the Framework of the OASEES Project. In _International conference on the Efficiency and Performance Engineering Network_ (pp. 795-806). Cham: Springer Nature Switzerland.
 
