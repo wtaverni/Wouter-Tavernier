@@ -6,6 +6,8 @@
 > Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers below.
 
 ## 2024
+Vanden Kerchove, F., Colle, D., Tavernier, W., Bogaerts, W., & Pickavet, M. (2024). Routing impact of architecture and damage in programmable photonic meshes. _Photonics Research_, _12_(9), 1999-2011.
+
 Miserez, J., Colle, D., Pickavet, M., & Tavernier, W. (2024). Exploiting Queue Information for Scalable Delay-Constrained Routing in Deterministic Networks. _IEEE Transactions on Network and Service Management_.
 
 Sharma, G. P., Tavernier, W., Colle, D., Pickavet, M., Haxhibeqiri, J., Hoebeke, J., & Moerman, I. (2024). End-to-End No-wait Scheduling for Time-Triggered Streams in Mixed Wired-Wireless Networks. _Journal of Network and Systems Management_, _32_(3), 65.
