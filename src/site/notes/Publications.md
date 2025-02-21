@@ -3,7 +3,10 @@
 ---
 
 # Publications
-> Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers below.
+> Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers.
+
+## 2025
+Zhang, Z., Colle, D., Tavernier, W., & Pickavet, M. (2025). A Zero-Crossing Optical Waveguide Routing Method. _Journal of Lightwave Technology_.
 
 ## 2024
 Vanden Kerchove, F., Colle, D., Tavernier, W., Bogaerts, W., & Pickavet, M. (2024). Routing impact of architecture and damage in programmable photonic meshes. _Photonics Research_, _12_(9), 1999-2011.
