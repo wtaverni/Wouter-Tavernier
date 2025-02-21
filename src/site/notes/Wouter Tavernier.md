@@ -8,7 +8,7 @@ I am associate professor at [Ghent University](https://www.ugent.be), Belgium, 
 
 Currently, my **research interests** are in deterministic networking (TSN), networking for high-performance computing, and network acceleration technologies. I am particularly interested in control-related topics requiring modelling, optimization of resources and associated performance, or the design of distributed protocols.
 ## Contact
-![prof-bio-pic.jpeg|200](/img/user/attachments/prof-bio-pic.jpeg)
+![bio-pic.jpg|200](/img/user/attachments/bio-pic.jpg)
 e-mail: [wouter.tavernier@ugent.be](mailto:wouter.tavernier@ugent.be)
 [Google Scholar](https://scholar.google.be/citations?user=zMoR8AEAAAA)
 [LinkedIn](https://www.linkedin.com/in/wouter-tavernier-5049342/)
