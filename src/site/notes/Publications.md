@@ -6,6 +6,8 @@
 > Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers.
 
 ## 2025
+Chakraborty, A., Colle, D., Kourtis, A., Pickavet, M., Oikonomakis, A., & Tavernier, W. (2025). Profiling Concurrent Vision Inference Workloads on NVIDIA Jetson. In _2025 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)_ . IEEE.
+
 Miserez, J., Colle, D., Pickavet, M., & Tavernier, W. (2025, May). Optimizing Queueing Delay Budgets in DetNets based on Strict Priority Queueing. In _2025 IEEE 26th International Conference on High Performance Switching and Routing (HPSR)_ (pp. 1-7). IEEE.
 
 Zhang, Z., Colle, D., Tavernier, W., & Pickavet, M. (2025). A Zero-Crossing Optical Waveguide Routing Method. _Journal of Lightwave Technology_.
