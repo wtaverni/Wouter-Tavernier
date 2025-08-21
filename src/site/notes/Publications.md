@@ -6,9 +6,11 @@
 > Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers.
 
 ## 2025
-Heydarian, M., Colle, D., Pickavet, M., & Tavernier, W. (2025). Multi-timescale Scheme for Cooperative User Association and Hybrid Beamforming in mmWave MIMO Systems. In EURASIP Journal on Wireless Communications and Networking (to be published).
+De Neve, J., Zhang, Z., Tavernier, W., Colle, D., & Pickavet, M. (2025). Edge coloring bipartite multigraphs for dynamically configuring optical switches. _Journal of Optical Communications and Networking_, _17_(8), 720-731.
 
-Chakraborty, A., Colle, D., Kourtis, A., Pickavet, M., Oikonomakis, A., & Tavernier, W. (2025). Profiling Concurrent Vision Inference Workloads on NVIDIA Jetson. In _2025 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)_ . IEEE (to be published).
+Heydarian, M., Colle, D., Pickavet, M., & Tavernier, W. (2025). Multi-timescale scheme for cooperative user association and hybrid beamforming in mmWave MIMO systems. _EURASIP Journal on Wireless Communications and Networking_, _2025_(1), 55.
+
+Chakraborty, A., Colle, D., Kourtis, A., Pickavet, M., Oikonomakis, A., & Tavernier, W. (2025). Profiling Concurrent Vision Inference Workloads on NVIDIA Jetson. In _2025 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)_. [PDF of extended version](https://arxiv.org/pdf/2508.08430).
 
 Miserez, J., Colle, D., Pickavet, M., & Tavernier, W. (2025, May). Optimizing Queueing Delay Budgets in DetNets based on Strict Priority Queueing. In _2025 IEEE 26th International Conference on High Performance Switching and Routing (HPSR)_ (pp. 1-7). IEEE.
 
