@@ -6,7 +6,7 @@
 > Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers.
 
 ## 2025
-Van Poucke, D., Colle, D., Pickavet, M., & Tavernier, W. (2025, September). Quantifying the Impact of Job Placement and Routing on Network Efficiency in AI Clusters. In _Proceedings of the 2nd Workshop on Networks for AI Computing_ (pp. 74-80).
+Van Poucke, D., Colle, D., Pickavet, M., & Tavernier, W. (2025, September). Quantifying the Impact of Job Placement and Routing on Network Efficiency in AI Clusters. In _Proceedings of the 2nd Workshop on Networks for AI Computing (SIGCOMM 2025 NAIC workshop)_ (pp. 74-80).
 
 De Neve, J., Zhang, Z., Tavernier, W., Colle, D., & Pickavet, M. (2025). Edge coloring bipartite multigraphs for dynamically configuring optical switches. _Journal of Optical Communications and Networking_, _17_(8), 720-731.
 
