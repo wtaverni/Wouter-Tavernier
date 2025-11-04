@@ -6,6 +6,10 @@
 > Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers.
 
 ## 2025
+De Neve, J., Vanden Kerchove, F., Colle, D., Tavernier, W., & Pickavet, M. (2025). On the Chromatic Number of the Plane with Two Forbidden Distances. _The American Mathematical Monthly_, 1-14.
+
+Chakraborty, A., Tavernier, W., Pickavet, M., & Colle, D. (2025, September). DipDCE: Offloading-Aware Vision Inference in Edge with Concurrent Executions. In _2025 IEEE International Conference on Cloud Engineering (IC2E)_ (pp. 272-280). IEEE.
+
 Van Poucke, D., Colle, D., Pickavet, M., & Tavernier, W. (2025, September). Quantifying the Impact of Job Placement and Routing on Network Efficiency in AI Clusters. In _Proceedings of the 2nd Workshop on Networks for AI Computing (ACM SIGCOMM 2025 NAIC workshop)_ (pp. 74-80).
 
 De Neve, J., Zhang, Z., Tavernier, W., Colle, D., & Pickavet, M. (2025). Edge coloring bipartite multigraphs for dynamically configuring optical switches. _Journal of Optical Communications and Networking_, _17_(8), 720-731.
