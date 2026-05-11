@@ -5,6 +5,11 @@
 # Publications
 > Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers.
 
+## 2026
+De Neve, J., Tavernier, W., Colle, D., & Pickavet, M. (2026). Globally balanced paths for minimizing congestion in HPC networks. In _INOC2026, the International Network Optimization Conference_ (pp. 82-87).
+
+Imeri, A., Roth, U., Kourtis, M. A., Oikonomakis, A., Economopoulos, A., Fogli, L., ... & Tavernier, W. (2026). Leveraging the DAO for Edge-to-Cloud Data Sharing and Availability. _Future Internet_, _18_(1), 37.
+
 ## 2025
 De Neve, J., Vanden Kerchove, F., Colle, D., Tavernier, W., & Pickavet, M. (2025). On the Chromatic Number of the Plane with Two Forbidden Distances. _The American Mathematical Monthly_, 1-14.
 
