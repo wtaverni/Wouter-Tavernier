@@ -6,6 +6,9 @@
 > Do not hesitate to drop me an [email](mailto:wouter.tavernier@ugent.be) if you would like to receive a PDF of one the papers.
 
 ## 2026
+
+J. De Neve, D. Colle, W. Tavernier, and M. Pickavet, “Edge Coloring of Multigraphs With Very High Multiplicities,” Networks (2026): 1–16, https://doi.org/10.1002/net.70054.
+
 De Neve, J., Tavernier, W., Colle, D., & Pickavet, M. (2026). Globally balanced paths for minimizing congestion in HPC networks. In _INOC2026, the International Network Optimization Conference_ (pp. 82-87).
 
 Imeri, A., Roth, U., Kourtis, M. A., Oikonomakis, A., Economopoulos, A., Fogli, L., ... & Tavernier, W. (2026). Leveraging the DAO for Edge-to-Cloud Data Sharing and Availability. _Future Internet_, _18_(1), 37.
