@@ -22,7 +22,6 @@ At the [IDLab research group](https://idlab.ugent.be/) of [Ghent University](ht
 
 ## [[Publications\|Publications]]
 
-## [[Patents\|Patents]]
 
 
 
